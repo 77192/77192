@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Meu nome é Liz
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
+- Sou especializada linguagem arduíno (C++) 
+- Estou me desenvolvendo na linguagem JavaScript por meio da plataforma [Alura](https://www.alura.com.br)
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
   
 - 📫 Você entrar em contato comigo
